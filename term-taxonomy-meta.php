@@ -5,11 +5,11 @@
  */
 /*
 Plugin Name: Term Taxonomy Meta
-Plugin URI: http://wordpress.org/extend/plugins/term-taxonomy-meta/
+Plugin URI: http://github.com/goblindegook/term-taxonomy-meta/
 Description: Adds support for term taxonomy meta values in WordPress.
 Author: Luís Rodrigues
 Version: 0.2
-Author URI: http://twitter.com/goblindegook
+Author URI: http://github.com/goblindegook/
 */
 
 define( 'TT_META_PLUGIN_URL'  , WP_PLUGIN_URL . '/' . dirname( plugin_basename( __FILE__ ) ) . '/' );
